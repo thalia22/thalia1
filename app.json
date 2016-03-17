@@ -1,0 +1,13 @@
+{
+  "name": "thalia1",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
